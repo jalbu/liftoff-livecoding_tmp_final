@@ -1,0 +1,11 @@
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.exe
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.deps.json
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.runtimeconfig.json
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.runtimeconfig.dev.json
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.dll
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\bin\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.pdb
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\obj\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.csprojAssemblyReference.cache
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\obj\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.AssemblyInfoInputs.cache
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\obj\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.AssemblyInfo.cs
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\obj\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.dll
+D:\My Folder\lc101\liftoff\liftoff-livecoding_tmp_final\Liftoff-livecoding_tmp_final\obj\Debug\netcoreapp3.0\Liftoff-livecoding_tmp_final.pdb
